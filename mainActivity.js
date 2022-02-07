@@ -35,7 +35,7 @@
             arisuchan: 'https://lanbosm.github.io/WebGLKizunaAi/mmd/model/kizunaai.pmx',
         },
         vmdFiles: {
-            elysion: ['https://lanbosm.github.io/WebGLKizunaAi/gbmotion.vmd'],
+            elysion: ['https://lanbosm.github.io/WebGLKizunaAi/mmd/gbmotion.vmd'],
         },
         cameraFiles: {
             elysion: ['https://lanbosm.github.io/WebGLKizunaAi/mmd/gbcamera.vmd']
