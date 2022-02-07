@@ -32,16 +32,16 @@
         ambientColor: '#454545',
         directionalLightColor: '#CCCCCC',
         modelFile: {
-            arisuchan: 'http://localhost:54628/mmd/model/kizunaai.pmx',
+            arisuchan: 'https://lanbosm.github.io/WebGLKizunaAi/mmd/model/kizunaai.pmx',
         },
         vmdFiles: {
-            elysion: ['http://localhost:54628/mmd/gbmotion.vmd'],
+            elysion: ['https://lanbosm.github.io/WebGLKizunaAi/gbmotion.vmd'],
         },
         cameraFiles: {
-            elysion: ['http://localhost:54628/mmd/gbcamera.vmd']
+            elysion: ['https://lanbosm.github.io/WebGLKizunaAi/mmd/gbcamera.vmd']
         },
         audioFile: {
-            elysion: 'http://localhost:54628/mmd/gbmusic.mp3',
+            elysion: 'https://lanbosm.github.io/WebGLKizunaAi/mmd/gbmusic.mp3',
         },
         container: 'mmd-container'
     };
